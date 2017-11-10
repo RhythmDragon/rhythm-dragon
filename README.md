@@ -1,4 +1,2 @@
 # rhythm-dragon
-
-My name is Drake and I want to do well in this class. 
-I hope this will work.
+An introduction to myself to those that care about me, yet don't know me.
